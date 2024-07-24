@@ -86,7 +86,3 @@ Feel free to contribute by forking this repository and submitting pull requests.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-You can copy and paste this formatted README file into your repository.
